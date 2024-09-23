@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\bin\Debug\net8.0\CalculadoraBasica.exe
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\bin\Debug\net8.0\CalculadoraBasica.deps.json
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\bin\Debug\net8.0\CalculadoraBasica.runtimeconfig.json
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\bin\Debug\net8.0\CalculadoraBasica.dll
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\bin\Debug\net8.0\CalculadoraBasica.pdb
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.sourcelink.json
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.dll
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\refint\CalculadoraBasica.dll
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.pdb
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\CalculadoraBasica.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Authentic Games\ProjetoEmEquipe\Calculadora Basica - Izabelly\CalculadoraBasica\obj\Debug\net8.0\ref\CalculadoraBasica.dll
