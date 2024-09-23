@@ -1,0 +1,14 @@
+C:\Users\Alunos\Music\pedrapapeltesooura\bin\Debug\net8.0\pedrapapeltesooura.exe
+C:\Users\Alunos\Music\pedrapapeltesooura\bin\Debug\net8.0\pedrapapeltesooura.deps.json
+C:\Users\Alunos\Music\pedrapapeltesooura\bin\Debug\net8.0\pedrapapeltesooura.runtimeconfig.json
+C:\Users\Alunos\Music\pedrapapeltesooura\bin\Debug\net8.0\pedrapapeltesooura.dll
+C:\Users\Alunos\Music\pedrapapeltesooura\bin\Debug\net8.0\pedrapapeltesooura.pdb
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.AssemblyInfoInputs.cache
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.AssemblyInfo.cs
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.dll
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\refint\pedrapapeltesooura.dll
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.pdb
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\pedrapapeltesooura.genruntimeconfig.cache
+C:\Users\Alunos\Music\pedrapapeltesooura\obj\Debug\net8.0\ref\pedrapapeltesooura.dll
