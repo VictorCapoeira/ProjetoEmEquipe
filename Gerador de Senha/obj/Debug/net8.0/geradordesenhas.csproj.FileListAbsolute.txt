@@ -1,0 +1,14 @@
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\bin\Debug\net8.0\geradordesenhas.exe
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\bin\Debug\net8.0\geradordesenhas.deps.json
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\bin\Debug\net8.0\geradordesenhas.runtimeconfig.json
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\bin\Debug\net8.0\geradordesenhas.dll
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\bin\Debug\net8.0\geradordesenhas.pdb
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.AssemblyInfoInputs.cache
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.AssemblyInfo.cs
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.dll
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\refint\geradordesenhas.dll
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.pdb
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\geradordesenhas.genruntimeconfig.cache
+C:\Users\Alunos\3D Objects\geradordesenhas\geradordesenhas\obj\Debug\net8.0\ref\geradordesenhas.dll
