@@ -1,6 +1,6 @@
 # ProjetoEmEquipe
 Atividade em equipe GITHUB.
-## simulador de lançamento de dados 
+## SIMULADOR DE LANÇAMENTO DE DADOS
 
 ### O que foi utilizado:
 
