@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\bin\Debug\net8.0\Conversor_de_temperatura.exe
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\bin\Debug\net8.0\Conversor_de_temperatura.deps.json
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\bin\Debug\net8.0\Conversor_de_temperatura.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\bin\Debug\net8.0\Conversor_de_temperatura.dll
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\bin\Debug\net8.0\Conversor_de_temperatura.pdb
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.dll
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\refint\Conversor_de_temperatura.dll
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.pdb
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\Conversor_de_temperatura.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\Nada_Oculto_permance\Nova pasta\ProjetoEmEquipe\Conversor_de_temperatura\obj\Debug\net8.0\ref\Conversor_de_temperatura.dll
