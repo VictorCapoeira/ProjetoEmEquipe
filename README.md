@@ -31,3 +31,28 @@ Dar a opção ao usuário de quantas vezes gostaria de lançar o dado.
 
 Este é um simulador de lançamento de dados que dá a possibilidade do usuário lançar o dado quantas vezes ele quiser.  
 
+## CALCULADORA SIMPLES
+
+### O que foi utilizado:
+
+Foi usado o dotnet.fiddle
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Dois valores foram coletados.
+
+* Uma operação foi coletada.
+
+* A conta entre os valores (mediada pelo operador) foi realizado.
+
+
+### Backlog:
+
+Dar a opção do usuario realizar mais de uma conta . 
+
+### Conclusão:
+
+Este é um projeto simples de calculadora, que realiza as operações mais basicas entre dois valores. 
+
