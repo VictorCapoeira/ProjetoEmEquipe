@@ -1,0 +1,14 @@
+C:\Users\Alunos\Downloads\almoço\pratofeito\bin\Debug\net8.0\pratofeito.exe
+C:\Users\Alunos\Downloads\almoço\pratofeito\bin\Debug\net8.0\pratofeito.deps.json
+C:\Users\Alunos\Downloads\almoço\pratofeito\bin\Debug\net8.0\pratofeito.runtimeconfig.json
+C:\Users\Alunos\Downloads\almoço\pratofeito\bin\Debug\net8.0\pratofeito.dll
+C:\Users\Alunos\Downloads\almoço\pratofeito\bin\Debug\net8.0\pratofeito.pdb
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.AssemblyInfoInputs.cache
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.AssemblyInfo.cs
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.dll
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\refint\pratofeito.dll
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.pdb
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\pratofeito.genruntimeconfig.cache
+C:\Users\Alunos\Downloads\almoço\pratofeito\obj\Debug\net8.0\ref\pratofeito.dll
