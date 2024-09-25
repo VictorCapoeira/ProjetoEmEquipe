@@ -11,7 +11,7 @@ Linguagem c#
 ### Etapas Implementadas:
 
 * Foram gerados números aleatórios.
-
+s
 * Foram gerados números de 1 a 6.
 
 * Deu a opção ao usuário se ele deseja continuar jogando.
