@@ -27,7 +27,7 @@ Linguagem c#
 
 Dar a opção ao usuário de quantas vezes gostaria de lançar o dado. 
 
-### Conclusão:
+### ideia:
 
 Este é um simulador de lançamento de dados que dá a possibilidade do usuário lançar o dado quantas vezes ele quiser.  
 
@@ -52,7 +52,7 @@ Linguagem c#
 
 Dar a opção do usuario realizar mais de uma conta . 
 
-### Conclusão:
+### ideia:
 
 Este é um projeto simples de calculadora, que realiza as operações mais basicas entre dois valores. 
 
@@ -81,7 +81,94 @@ Dar a opção do usuario jogar quantas vezes ele quiser.
 
 Opção do usuario sortear outro número.
 
-### Conclusão:
+### ideia:
 
 Este é um projeto simples de calculadora, que realiza as operações mais basicas entre dois valores. 
+
+## Gerador de senhas aleatórios
+
+### O que foi utilizado:
+
+Visual Studio
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Coletar do usuario um valor referente ao comprimento da senha.
+
+* Gerar um array de letras.
+  
+* Gerar um array de números.
+
+* Gerar uma string que contenha letras e números aleatorios vindo dos arrays.
+  
+* Exibir para o usuario.
+
+
+### Backlog:
+
+Dar a opção do usuario definir a quantidade de letras.
+
+Dar a opção do usuario definir a quantidade de números.
+
+Dar a opção do usuario solicitar uma nova senha.
+
+### ideia:
+
+Este é um projeto que gera uma senha aleatória para o usuario. 
+
+## Calculdora de IMC
+
+### O que foi utilizado:
+
+dotnet.fiddle
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Coletar do usuario um valor referente ao seu peso.
+  
+* Coletar do usuario um valor referente a sua altura.
+
+* Realizar o calculo de IMC.
+  
+* Retornar para o usuario um mensagem indicando seu IMC atual.
+
+### Backlog:
+
+Retornar o IMC junto com um texto indicando possiveis exercicios e alimentação.
+
+### ideia:
+
+Este é um projeto que calcula o IMC do usuario. 
+
+## Calculdora de IMC
+
+### O que foi utilizado:
+
+dotnet.fiddle
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Coletar do usuario um valor referente ao seu peso.
+  
+* Coletar do usuario um valor referente a sua altura.
+
+* Realizar o calculo de IMC.
+  
+* Retornar para o usuario um mensagem indicando seu IMC atual.
+
+### Backlog:
+
+Retornar o IMC junto com um texto indicando possiveis exercicios e alimentação.
+
+### ideia:
+
+Este é um projeto que calcula o IMC do usuario. 
+
+
 
