@@ -174,5 +174,30 @@ Opção do usuario adicionar algum item ao fim
 
 Este é um projeto que gerá um cardapio para o usuario, e o possibilita montar um prato ou gerar um prato aleatorio. 
 
+## Cronômetro simples
+
+### O que foi utilizado:
+
+VsCode
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Coletar um valor referente a quantidade de tempo que o usuario vai configurar.
+  
+* Exibir para o usuario o cronômetro em tempo real.
+
+
+### Backlog:
+
+Opção do usuario reiniciar o cronômetro. 
+
+Opção do usuario parar o cronômetro. 
+
+### ideia:
+
+Este é um projeto de um cronômetro, que irá contar a parti de um tempo que o usuario definir. 
+
 
 
