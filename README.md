@@ -11,7 +11,7 @@ Linguagem c#
 ### Etapas Implementadas:
 
 * Foram gerados números aleatórios.
-s
+
 * Foram gerados números de 1 a 6.
 
 * Deu a opção ao usuário se ele deseja continuar jogando.
@@ -51,6 +51,35 @@ Linguagem c#
 ### Backlog:
 
 Dar a opção do usuario realizar mais de uma conta . 
+
+### Conclusão:
+
+Este é um projeto simples de calculadora, que realiza as operações mais basicas entre dois valores. 
+
+## Jogo de adivinhação de números
+
+### O que foi utilizado:
+
+Foi usado o dotnet.fiddle
+
+Linguagem c#
+
+### Etapas Implementadas:
+
+* Um valor aleatório foi gerado.
+
+* Um valor digitado pelo o usuario foi coletado.
+
+* Comparando valores.
+  
+* Caso a valor digitado seja maior, uma mensagem indicando isso vai ser exibida, caso seja menor, uma mensagem indicando isso será exibida.
+
+
+### Backlog:
+
+Dar a opção do usuario jogar quantas vezes ele quiser.
+
+Opção do usuario sortear outro número.
 
 ### Conclusão:
 
