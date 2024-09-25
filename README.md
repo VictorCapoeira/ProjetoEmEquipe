@@ -89,7 +89,7 @@ Este é um projeto simples de calculadora, que realiza as operações mais basic
 
 ### O que foi utilizado:
 
-Visual Studio
+VsCode
 
 Linguagem c#
 
@@ -144,31 +144,35 @@ Retornar o IMC junto com um texto indicando possiveis exercicios e alimentação
 
 Este é um projeto que calcula o IMC do usuario. 
 
-## Calculdora de IMC
+## Decisão de Almoço
 
 ### O que foi utilizado:
 
-dotnet.fiddle
+VsCode
 
 Linguagem c#
 
 ### Etapas Implementadas:
 
-* Coletar do usuario um valor referente ao seu peso.
+* Gerar um cardapio.
   
-* Coletar do usuario um valor referente a sua altura.
+* Coletar pedido do cliente(adicionar na lista).
 
-* Realizar o calculo de IMC.
+* Oferecer a opção de um prato aleatorio.
   
-* Retornar para o usuario um mensagem indicando seu IMC atual.
+* Retornar para o usuario o prato montado e o seu valor.
 
 ### Backlog:
 
-Retornar o IMC junto com um texto indicando possiveis exercicios e alimentação.
+Opção do usuario trocar algum item ao fim 
+
+Opção do usuario retirar algum item ao fim
+
+Opção do usuario adicionar algum item ao fim
 
 ### ideia:
 
-Este é um projeto que calcula o IMC do usuario. 
+Este é um projeto que gerá um cardapio para o usuario, e o possibilita montar um prato ou gerar um prato aleatorio. 
 
 
 
